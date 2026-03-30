@@ -6,6 +6,7 @@ Contents
 
 README.md
 
+q1 ->
 EE541HW7Figs.pdf
 EE541_HW7.ipynb
 
